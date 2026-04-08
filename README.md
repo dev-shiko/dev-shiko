@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything frontend
 - 🤔 I’m looking for help with understanding Data Structures and Algorithms
 - 💬 Ask me about anything in HTML
-- 📫 How to reach me: alimwanasiti94@gmail.com
+- 📫 How to reach me: emmywanjikuwangari@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Netherlands has nearly zero deforestation rate
